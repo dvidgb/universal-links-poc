@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["TUTEAMID.com.poc.appB"],
+        "components": [
+          {
+            "/": "/open/*",
+            "comment": "Abre App B para cualquier ruta bajo /open/"
+          }
+        ]
+      }
+    ]
+  }
+}
